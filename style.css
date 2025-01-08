@@ -1,0 +1,81 @@
+body {
+  color: #fff;
+  background: linear-gradient(to bottom, #db94ea, #8E92F2);
+  width: 97vw;
+  padding: 0px;
+  margin: 0px;
+}
+
+header {
+  height: 12vh;
+  font-size: 4vw;
+  background-color: #1f1f1f;
+  border-radius: 0px 0px 15px 0px;
+  box-shadow: 3px 5px 5px rgba(17, 17, 17, 0.6);
+}
+
+h1 {
+  float: right;
+  padding-right: 5%;
+  color: #8E92F2;
+}
+
+h2 {
+  font-size: 4vw;
+  text-decoration: underline;
+  color: #db94ea;
+}
+
+#logo {
+  width: 15vw;
+  margin: 2px;
+}
+
+section {
+  margin: 2rem;
+  padding: 3vw;
+  height: auto;
+  min-height: 30vh;
+  background-color: #1f1f1f;
+  box-shadow: 5px 10px 5px rgba(17, 17, 17, 0.6);
+  border-radius: 10px;
+}
+
+#encounterSec {
+  min-height: 30vh;
+  height: auto;
+}
+
+#eventSec {
+  min-height: 30vh;
+  height: auto;
+}
+
+input {
+  background-color: #fff;
+  width: 15vw;
+  height: 5vh;
+  margin: 2vw;
+  border-radius: 10px;
+}
+
+button {
+  margin: 1vw;
+  width: 15vw;
+  height: 5vh;
+  border-radius: 15px;
+  font-size: 2.5vw;
+  font-weight: bold;
+}
+
+#charOut, #lootOut, #creatureOut, #encounterOut, #eventOut {
+  margin: 1rem;
+  text-align: center;
+  min-width: 10vw;
+  font-size: 4vw;
+}
+
+#difficultyLabel {
+  font-size: 2.5vw;
+  color: #4f4f4f;
+}
