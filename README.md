@@ -1,5 +1,5 @@
 # Dungeon-Generator
-A bunch of useful generators for a DND campaign. Try it [here] (shakoer.github.io).
+A bunch of useful generators for a DND campaign.
 
 ![logo](https://github.com/user-attachments/assets/bcb03957-8fe5-40a1-a09e-3dcfe0fd3a6c)
 
