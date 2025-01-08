@@ -14,6 +14,7 @@ header {
 }
 
 h1 {
+  display: none;
   float: right;
   padding-right: 5%;
   color: #8E92F2;
